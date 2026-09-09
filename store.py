@@ -17,7 +17,8 @@ MENU = {
     "bagel": 2.50,
     "muffin": 5.50,
     # Add new products here
-    "ayan": 4.50
+    "ayan": 4.50,
+    "ayan3": 1.20
 }
 
 INVENTORY = {
