@@ -17,7 +17,6 @@ MENU = {
     "bagel": 2.50,
     "muffin": 5.50,
     # Add new products here
-<<<<<<< HEAD
     "ayan": 2.50
 }
 
